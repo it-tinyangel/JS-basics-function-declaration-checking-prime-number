@@ -2,6 +2,8 @@
 
 # Checking prime number
 
+This code creates a web application that helps the user determine whether the entered number is a prime number.
+
 Using the function declaration.
 
 1. The created function accepts one number.
